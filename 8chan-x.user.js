@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        PonyX
 // @version     2.0.0.1457850720-MLPOL
-// @description Small userscript to improve mlpol.ne
+// @description Small userscript to improve mlpol.net
 // @grant       none
 
 // @require     https://code.jquery.com/ui/1.11.2/jquery-ui.min.js
