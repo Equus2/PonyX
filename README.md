@@ -1,9 +1,4 @@
-#![8](https://cdn.rawgit.com/Pashe/8chanX/2-0_pure/images/logo.svg)chanX 2.0 Pure
-#[Click here to install](https://github.com/Pashe/8chanX/raw/2-0_pure/8chan-x.user.js)
-
-This branch removes a few features in order to improve compatibility. You should not use this branch if [2.0](https://github.com/Pashe/8chanX/tree/2-0) works for you.
-***
-
+PonyX (for lack of a better name), a """"""""""""fork""""""""""" of 8chan-X.
 This userscript adds various features and options like:
  * Gallery
  * Filters
