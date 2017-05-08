@@ -98,7 +98,7 @@ if (window.Options) {
 	$(settingsMenu).appendTo(tab.content);
 }
 
-settingsMenu.innerHTML = sprintf('<span style="font-size:8pt;">8chanX %s pure</span>', GM_info.script.version)
+settingsMenu.innerHTML = sprintf('<span style="font-size:8pt;">PonyX %s pure</span>', GM_info.script.version)
 + '<div style="overflow:auto;height:100%;">' //General
 + '<label><input type="checkbox" name="catalogLinks">' + 'Force catalog links' + '</label><br>'
 + '<label><input type="checkbox" name="revealImageSpoilers">' + 'Reveal image spoilers' + '</label><br>'
