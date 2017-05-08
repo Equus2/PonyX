@@ -53,7 +53,7 @@ function chxErrorHandler(e, section) {
 	};
 	
 	console.error(sprintf(
-		"8chanX experienced an error. Please include the following information with your report:\n"+
+		"PonyX experienced an error. Please include the following information with your report:\n"+
 		"[code]%s in %s/%s @ L%s C%s: %s\n\nVersion: %s (2-0_pure@%s)\nGreasemonkey: %s\nActive page: %s\nBrowser: %s\nUser agent: %s\nLocation: %s\nStack:\n%s[/code]",
 		rptObj.name, rptObj.file, rptObj.section, rptObj.line, rptObj.col, rptObj.msg,
 		rptObj.scriptName, rptObj.scriptVersion,
@@ -65,7 +65,7 @@ function chxErrorHandler(e, section) {
 		rptObj.stack
 	));
 	
-	alert("8chanX experienced an error. Check the console for details (typically F12).");
+	alert("PonyX experienced an error. Check the console for details (typically F12).");
 }
 
 try {
@@ -94,7 +94,7 @@ var thisBoardSettings;
 var settingsMenu = window.document.createElement('div');
 
 if (window.Options) {
-	var tab = window.Options.add_tab('8chanX', 'times', '8chanX');
+	var tab = window.Options.add_tab('PonyX', 'times', 'PonyX');
 	$(settingsMenu).appendTo(tab.content);
 }
 
