@@ -1,4 +1,4 @@
-PonyX (for lack of a better name), a """"""""""""fork""""""""""" of 8chan-X.
+PonyX (for lack of a better name), a """"""""""""fork""""""""""" of 8chan-X which is meant to be used on MLPOL.
 This userscript adds various features and options like:
  * Gallery
  * Filters
@@ -18,12 +18,19 @@ Browser|Addon
 Firefox|[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 Chrome |[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
-####Key bindings
-Key     | Function
-----    | ----
-C       | Navigates to the catalog
-E       | Expands/shrinks all images
-G       | Toggles the gallery
-Q       | Opens the quick reply
-R       | Update thread/reload page
-Esc     | Closes the quick reply, gallery, or expanded gallery image
+Key Bindings:
+
+
+C - Navigates to the catalog
+
+
+E - Expands/shrinks all the images in a thread
+
+
+G - Toggles gallery mode
+
+
+R - Updates the thread
+
+
+Esc - Closes the quick reply, gallery, or expanded gallery image.
