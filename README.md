@@ -1,4 +1,4 @@
-Got a userscript manager already and know what you're doing? click [this](https://github.com/animepony/PonyX/raw/2-0_pure/8chan-x.user.js)
+Got a userscript manager already and know what you're doing? click [this](https://github.com/animepony/PonyX/raw/2-0_pure/8chan-x.user.js) and see the keybinding list.
 
 
 PonyX (for lack of a better name), a """"""""""""fork""""""""""" of 8chan-X which is meant to be used on MLPOL.
