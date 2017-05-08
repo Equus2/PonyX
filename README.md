@@ -24,6 +24,9 @@ Chrome |[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dh
 Key Bindings:
 
 
+Q - Opens the Quick Reply box
+
+
 C - Navigates to the catalog
 
 
