@@ -1,4 +1,4 @@
-Got a userscript manager already and know what you're doing? click [this](https://github.com/animepony/PonyX/raw/2-0_pure/PonyX.user.js) and see the keybinding list.
+Got a userscript manager already and know what you're doing? click [this](https://github.com/Equus2/PonyX/raw/2-0_pure/PonyX.user.js) and see the keybinding list.
 
 
 PonyX (for lack of a better name) is a """"""""""""fork""""""""""" of 8chan-X which is meant to be used on MLPOL.
@@ -20,6 +20,8 @@ Browser|Addon
 ----   |----
 Firefox|[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 Chrome |[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+Opera  |[Tampermonkey](https://addons.opera.com/en/extensions/details/tampermonkey-beta/?display=en)
+Edge   |[Tampermonkey](https://www.microsoft.com/en-us/store/p/tampermonkey/9nblggh5162s)
 
 Key Bindings:
 
