@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        PonyX
+// @namespace   Pony-X
 // @version     2.0.0.1457850720-MLPOL
 // @description Small userscript to improve mlpol.net
 // @grant       none
